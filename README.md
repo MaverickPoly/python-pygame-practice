@@ -22,8 +22,8 @@
     - A program that counts frames, and displays the current frame count.
 11. **Paddle and Ball:**
     - A simple game where a paddle moves left and right, and a ball bounces off of the screen edges, and the paddle.
-12. **Clickable Buttons:**
-    - Create buttons that change color or trigger an event when clicked.
+12. **Clickable Button:**
+    - Create button that change color or trigger an event when clicked.
 13. **Simple Sprite Animation:**
     - Make a sprite animate through a few image frames.
 14. **Scrolling Background:**
@@ -32,8 +32,8 @@
     - Display a timer that counts down or up.
 16. **Random Shape Generator:**
     - Generate random shapes with random colors and positions.
-17. **Simple Maze:**
-    - Create a simple maze and allow the user to navigate it.
+17. **Infinite Runner:**
+    - Create a simple runner that can jump and runs infinately.
 18. **Basic Platformer Movement:**
     - A sprite that can jump and move along a platform.
 19. **Basic Paint Program:**
