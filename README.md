@@ -1,4 +1,8 @@
-## Pygame Training Exercises
+# Pygame Training Exercises
+
+This repository contains 20 simple pygame exercises and simple projects for beginner and was made to practice for beginners.
+
+## Projects and Exercises:
 
 1.  **Color Changing Window:**
     - A window that changes background color when a key is pressed.
